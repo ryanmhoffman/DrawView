@@ -20,14 +20,14 @@ Usage
 
 With Gradle:
 ```groovy
-  compile 'com.byox.drawview:drawview:1.0.2'
+  compile 'com.byox.drawview:drawview:1.0.5'
 ```
 or Maven:
 ```xml
 <dependency>
   <groupId>com.byox.drawview</groupId>
   <artifactId>drawview</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.5</version>
   <type>pom</type>
 </dependency>
 ```
@@ -58,7 +58,9 @@ Attributes
 --------
 Please visit [Wiki](https://github.com/ByoxCode/DrawView/wiki)
 
-
+Donate
+--------
+If this library is useful for you, and you like it, and if want to contribute for develop more libraries, you can buy me a beer. [Click here to donate](https://github.com/ByoxCode/DrawView/wiki/3.1-Contribute-for-develop-more-libraries)
 
 License
 --------
